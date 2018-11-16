@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StorageManager.iml" filepath="$PROJECT_DIR$/.idea/modules/StorageManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StorageManager_main.iml" filepath="$PROJECT_DIR$/.idea/modules/StorageManager_main.iml" group="StorageManager" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StorageManager_test.iml" filepath="$PROJECT_DIR$/.idea/modules/StorageManager_test.iml" group="StorageManager" />
+    </modules>
+  </component>
+</project>
