@@ -19,6 +19,6 @@ public class MemoizedFunctionImpl<T, R> implements MemoizedFunction<T, R> {
 
     @Override
     public boolean isComputedAt(Object argument) {
-        return values.contains(argument) && values.get(argument).isReady();
+        return values.containsKey(argument) && values.get(argument).isReady();
     }
 }
